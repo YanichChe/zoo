@@ -1,0 +1,6 @@
+[submodule "zoo-front"]
+	path = zoo-front
+	url = https://github.com/YanichChe/zoo-front
+[submodule "zoo-back"]
+	path = zoo-back
+	url = https://github.com/YanichChe/zoo-back
